@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: CICD WITH JAVA MAVEN
+name: CICD WITH JAVA MAVEN-latest
 
 on:
   push:
